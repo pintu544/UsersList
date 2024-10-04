@@ -1,5 +1,6 @@
 Assignment: Create a User List Page
 
+
 Objective:
 Design and develop a User List Page that displays user details retrieved from a given API.
 The focus will be on design, responsiveness, and handling user interactions such as
